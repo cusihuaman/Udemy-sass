@@ -1,0 +1,26 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "Proyeto con gulp sass y html",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch src/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusihuaman/Udemy-sass.git"
+  },
+  "keywords": [
+    "Sass",
+    "Gulp"
+  ],
+  "author": "Ferdinand cusihuaman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cusihuaman/Udemy-sass/issues"
+  },
+  "homepage": "https://github.com/cusihuaman/Udemy-sass#readme",
+  "devDependencies": {
+    "sass": "^1.49.0"
+  }
+}
